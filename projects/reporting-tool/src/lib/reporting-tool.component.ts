@@ -9,7 +9,7 @@ export class ReportingToolComponent implements OnInit {
   public reportingToolTitle: string;
 
   constructor() {
-    this.reportingToolTitle = 'This is Reporting tool Library !!!';
+    this.reportingToolTitle = 'This is Reporting tool Library !!!!!';
   }
 
   ngOnInit(): void {
