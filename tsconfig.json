@@ -14,6 +14,12 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "paths": {
+      "reporting-tool": [
+        "dist/reporting-tool/reporting-tool",
+        "dist/reporting-tool"
+      ]
+    },
     "target": "es2017",
     "module": "es2020",
     "lib": [
